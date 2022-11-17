@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href=”https://www.linkedin.com/in/daphne-wu-a44921168/"><img align=”left” src=”https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
