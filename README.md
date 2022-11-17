@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### 🤝 Connect with me:
 
 
-[![LinkedIn](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)](https://www.linkedin.com/in/daphne-wu-a44921168/ | width="21px")
+[![LinkedIn](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)](https://www.linkedin.com/in/daphne-wu-a44921168/)
+[<img src="[https://your-image-url.type](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)" width="100" height="100">](https://www.linkedin.com/in/daphne-wu-a44921168/)
 
 
 
