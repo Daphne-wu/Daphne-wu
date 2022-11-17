@@ -18,10 +18,5 @@ Here are some ideas to get you started:
 ### 🤝 Connect with me:
 
 
-[<img src="[https://your-image-url.type](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)" width="100" height="100">](https://www.linkedin.com/in/daphne-wu-a44921168/)
-
-
-
-<a href=”https://www.linkedin.com/in/daphne-wu-a44921168/"><img align=”left” src=”https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg" alt=”Daphne Wu | LinkedIn” width=”21px”/></a>
-
+[<img src="[https://your-image-url.type](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)" width="21px" height="21px">](https://www.linkedin.com/in/daphne-wu-a44921168/)
 
