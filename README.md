@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me:
 
+
+[![LinkedIn](https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg)](https://www.linkedin.com/in/daphne-wu-a44921168/)
+
 <a href=”https://www.linkedin.com/in/daphne-wu-a44921168/"><img align=”left” src=”https://raw.githubusercontent.com/Daphne-wu/Daphne-wu/main/images/linkedin.svg" alt=”Daphne Wu | LinkedIn” width=”21px”/></a>
 
 
